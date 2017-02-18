@@ -34,7 +34,7 @@ mix.js('resources/assets/js/app.js', 'public/js')
 ```
 
 # Done
-Thats all you need! 
+That's all you need! 
 
 Great thanks to *Jeffrey Way* [Laracasts maintainer](https://laracast.com):
 This thing was given to me by *Jeff* on [support forum topic](https://laracasts.com/discuss/channels/elixir/laravel-54-mix-stylus).
