@@ -5,7 +5,7 @@ Ready-to-go config for Laravel Mix and Stylus with plugins Nib, Jeet,Rupture.
 Just start with `npm install nib jeet rupture --save-dev`.
 
 Then copy and paste to `webpack.mix.js` in Laravel 5.4 root directory the following code (replace the original one):
-```
+```javascript
 const { mix } = require('laravel-mix');
 
 /*
